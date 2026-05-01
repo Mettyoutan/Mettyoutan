@@ -42,12 +42,12 @@
   <a href="https://github.com/Mettyoutan/techgadget-ecommerce-backend">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Mettyoutan&repo=techgadget-ecommerce&theme=tokyonight&hide_border=true"
+        srcset="https://github-readme-stats-rho-ten-79.vercel.app/api/pin/?username=Mettyoutan&repo=techgadget-ecommerce-backend&theme=radical&hide_border=true"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Mettyoutan&repo=techgadget-ecommerce&theme=default&hide_border=true"
+        srcset="https://github-readme-stats-rho-ten-79.vercel.app/api/pin/?username=Mettyoutan&repo=techgadget-ecommerce-backend&theme=default&hide_border=true"
         media="(prefers-color-scheme: light)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mettyoutan&repo=techgadget-ecommerce&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats-rho-ten-79.vercel.app/api/pin/?username=Mettyoutan&repo=techgadget-ecommerce-backend&theme=default&hide_border=true" />
     </picture>
   </a>
 </p>
@@ -61,21 +61,21 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Mettyoutan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+      srcset="https://github-readme-stats-rho-ten-79.vercel.app/api?username=Mettyoutan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Mettyoutan&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+      srcset="https://github-readme-stats-rho-ten-79.vercel.app/api?username=Mettyoutan&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Mettyoutan&show_icons=true&theme=default&hide_border=true" height="180em" alt="GitHub Stats" />
+    <img src="github-readme-stats-rho-ten-79.vercel.app/api?username=Mettyoutan&show_icons=true&theme=default&hide_border=true" height="180em" alt="GitHub Stats" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Mettyoutan&layout=compact&theme=tokyonight&hide_border=true"
+      srcset="https://github-readme-stats-rho-ten-79.vercel.app/api/top-langs?username=Mettyoutan&layout=compact&theme=tokyonight&hide_border=true"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Mettyoutan&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-rho-ten-79.vercel.app/api/top-langs?username=Mettyoutan&layout=compact&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mettyoutan&layout=compact&theme=default&hide_border=true" height="180em" alt="Top Languages" />
+    <img src="https://github-readme-stats-rho-ten-79.vercel.app/api/top-langs?username=Mettyoutan&layout=compact&theme=default&hide_border=true" height="180em" alt="Top Languages" />
   </picture>
 </p>
 
